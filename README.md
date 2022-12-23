@@ -1,2 +1,2 @@
 # TheIdealShip-Hats
-an，Among Us Hats repository
+an Among Us Hats repository
